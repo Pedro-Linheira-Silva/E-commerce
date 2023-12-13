@@ -1,0 +1,14 @@
+@import "./navegador.css";
+@import "./footer.css";
+@import "./loginEcadastro.css";
+@import "./sobre.css";
+@import "./corpo.css";
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body {
+    background-color: antiquewhite;
+}

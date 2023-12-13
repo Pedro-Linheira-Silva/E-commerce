@@ -1,0 +1,21 @@
+footer {
+    background-color: #3e9694;
+    height: 400px;
+}
+main {
+    height: 70vh;
+}
+.foote {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    padding: 3rem 3.5rem;
+}
+li {
+    list-style-type: none;
+    color: white;
+}
+.title {
+    font-weight: bold;
+    font-size: 25px;
+    color: black;
+}

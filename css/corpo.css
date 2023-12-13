@@ -1,0 +1,18 @@
+h2 {
+    font-size: 35px;
+    padding: 30px;
+}
+img {
+    width: 200px;
+    height: 250px;
+    border: 1px solid;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.roupasmasculinas {
+    display: flex;
+    justify-content: space-around;
+}
+.roupas{
+    padding: 30px;
+}
